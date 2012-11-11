@@ -1,0 +1,11 @@
+A faire :
+
+- Bouton pour supprimer une commande
+- Afficher la liste des services à commander : Fait
+- Ordonner les commandes par nom et service
+- Enregistrer les comptes dans une base de donnée
+- Calcule des parts à payer quand plusieurs personnes commande un même service avec un seul paiement d'une personne
+- Prendre en compte la part de chaque personne pour une même commande : Fait
+- Prise en-compte de la librairie JQuery : En test
+- Gestion des erreurs
+- Refactoriser les variables

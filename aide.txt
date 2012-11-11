@@ -1,0 +1,9 @@
+    Consignes :<br/>
+    - Les noms des personnes et des services doivent &ecirc;tre &eacute;crit en minuscules.<br/>
+    - Si une personne commande plusieurs services alors mettre ses paiements &agrave; 0 &euro; (A partir du deuxi&egrave;me).<br/>
+    - Pour un m&ecirc;me service command&eacute; par plusieurs personnes, le nom du service doit &ecirc;tre diff&eacute;rent.<br/>
+    - Une personne qui fait un paiement ne peut pas &ecirc;tre li&eacute; avec quelqu'un.<br/>
+    <br/>
+    Remarques :<br/>
+    - La colonne "Avec" et "Part" sont inactives.<br/>
+    - Les bouttons "Ordonner" et "A commander" sont inactifs.<br/>
